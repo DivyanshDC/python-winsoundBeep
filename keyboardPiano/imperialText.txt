@@ -1,0 +1,21 @@
+U U U
+R P U
+R P U
+
+F F F
+G P Y
+R P U
+
+L U L
+K
+J
+H
+G
+H
+
+I D S A
+
+PP Y P
+
+P F L L
+J G I S
